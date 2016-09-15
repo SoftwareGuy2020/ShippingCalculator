@@ -19,7 +19,8 @@
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:text="@string/top_banner" />
+        android:text="@string/top_banner"
+        android:textColor="@android:color/black" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -35,7 +36,8 @@
         android:backgroundTint="@color/accent_material_light"
         android:selectAllOnFocus="true"
         android:hint="@string/weight_edit_text_hint"
-        android:textAlignment="center">
+        android:textAlignment="center"
+        android:textSize="40sp">
         <requestFocus/>
     </EditText>
 

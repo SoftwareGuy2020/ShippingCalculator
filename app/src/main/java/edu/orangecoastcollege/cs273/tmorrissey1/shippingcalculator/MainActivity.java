@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
         weightEditText.addTextChangedListener(weightTextChangeListener);
         baseCostTextView.setText(currency.format(shipItem.getBaseCost()));
         updateTextViews();
-
     }
 
     private final TextWatcher weightTextChangeListener = new TextWatcher() {

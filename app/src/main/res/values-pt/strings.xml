@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora Do Transporte</string>
+    <string name="added_cost_label">custo acrescentado</string>
+    <string name="base_cost_label">Custo Básico:</string>
+    <string name="top_banner">Peso do Pacote</string>
+    <string name="total_cost_label">Custo Total do Transporte:</string>
+    <string name="weight_edit_text_hint">Insira o peso</string>
+    <string name="weight_unit_label">(em Onças)</string>
+</resources>
